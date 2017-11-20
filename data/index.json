@@ -1,0 +1,81 @@
+[
+  {
+    "title": "南丰蜜桔1",
+    "id": 0,
+    "num": "10个装",
+    "price": "￥88",
+    "delprice": "￥188",
+    "img":["/src/assets/images/p1.jpg","/src/assets/images/p1.jpg","/src/assets/images/p1.jpg"]
+  },
+  {
+    "title": "南丰蜜桔2",
+    "id": 1,
+    "num": "11个装",
+    "price": "￥818",
+    "delprice": "￥188",
+    "img":["/src/assets/images/p2.jpg","/src/assets/images/p2.jpg","/src/assets/images/p2.jpg"]
+
+  }, {
+  "title": "南丰蜜桔2",
+  "id": 1,
+  "num": "11个装",
+  "price": "￥818",
+  "delprice": "￥188",
+  "img":["/src/assets/images/p2.jpg","/src/assets/images/p2.jpg","/src/assets/images/p2.jpg"]
+
+},
+  {
+    "title": "南丰蜜桔3",
+    "id": 2,
+    "num": "12个装",
+    "price": "￥828",
+    "delprice": "￥188",
+    "img":["/src/assets/images/p3.jpg","/src/assets/images/p3.jpg","/src/assets/images/p3.jpg"]
+  },
+  {
+    "title": "南丰蜜桔4",
+    "id": 3,
+    "num": "13个装",
+    "price": "￥882",
+    "delprice": "￥188",
+    "img":["/src/assets/images/p4.jpg","/src/assets/images/p4.jpg","/src/assets/images/p4.jpg"]
+  },
+  {
+    "title": "南丰蜜桔5",
+    "id": 4,
+    "num": "14个装",
+    "price": "￥82",
+    "delprice": "￥188",
+    "img":["/src/assets/images/p5.jpg","/src/assets/images/p5.jpg","/src/assets/images/p5.jpg"]
+  },
+  {
+    "title": "南丰蜜桔5",
+    "id": 4,
+    "num": "14个装",
+    "price": "￥82",
+    "delprice": "￥188",
+    "img":["/src/assets/images/p5.jpg","/src/assets/images/p5.jpg","/src/assets/images/p5.jpg"]
+  },
+  {
+    "title": "南丰蜜桔5",
+    "id": 4,
+    "num": "14个装",
+    "price": "￥82",
+    "delprice": "￥188",
+    "img":["/src/assets/images/p5.jpg","/src/assets/images/p5.jpg","/src/assets/images/p5.jpg"]
+  },{
+  "title": "南丰蜜桔5",
+  "id": 4,
+  "num": "14个装",
+  "price": "￥82",
+  "delprice": "￥188",
+  "img":["/src/assets/images/p5.jpg","/src/assets/images/p5.jpg","/src/assets/images/p5.jpg"]
+},{
+  "title": "南丰蜜桔5",
+  "id": 4,
+  "num": "14个装",
+  "price": "￥82",
+  "delprice": "￥188",
+  "img":["/src/assets/images/p5.jpg","/src/assets/images/p5.jpg","/src/assets/images/p5.jpg"]
+}
+]
